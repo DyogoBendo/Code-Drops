@@ -10,3 +10,8 @@ A seguir, estão listados cada repositório, com o nome completo do vídeo, seu 
     Título: Features do ES2020 para o JavaScript | Code/Drops #20
     
     Assunto: Esse vídeo é sobre as principais features do ES2020, dentre elas: promise.allSettled, Optional Chaining, MatchAll e Nullish Coalescing
+
+## - [Code/Drops #22](https://www.youtube.com/watch?v=OOecQMZMkqY&ab_channel=Rocketseat) - [Repositório](https://github.com/DyogoBendo/Code-Drops/tree/master/Code_Drops_22)
+    Título: Como Publicar Pacotes no NPM | Code/Drops #22
+    
+    Assunto: Esse vídeo é uma introdução passo a passo de como publicar o primeiro pacote no NPM, sendo o projeto em si bem simples. 
