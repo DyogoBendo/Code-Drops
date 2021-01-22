@@ -14,4 +14,4 @@ A seguir, estão listados cada repositório, com o nome completo do vídeo, seu 
 ## - [Code/Drops #22](https://www.youtube.com/watch?v=OOecQMZMkqY&ab_channel=Rocketseat) - [Repositório](https://github.com/DyogoBendo/Code-Drops/tree/master/Code_Drops_22)
     Título: Como Publicar Pacotes no NPM | Code/Drops #22
     
-    Assunto: Esse vídeo é uma introdução passo a passo de como publicar o primeiro pacote no NPM, sendo o projeto em si bem simples. 
+    Assunto: Esse vídeo é uma introdução passo a passo de como publicar o primeiro pacote no NPM, sendo o projeto em si bem simples. A ideia é que possamos tanto publicar módulos que possam ser úteis para outras pessoas, assim como que resolvam problemas recorrentes de nossas programas, e possamos instalar facilmente. 
