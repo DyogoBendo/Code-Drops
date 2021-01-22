@@ -30,3 +30,8 @@ npm init -y
 
 ## Configuramos o package.json
 - Main: precisa apontar para o index.js
+
+# Publicando pacote
+```
+npm publish
+```
