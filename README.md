@@ -20,3 +20,8 @@ A seguir, estão listados cada repositório, com o nome completo do vídeo, seu 
     Título: Dark Mode raiz com CSS e JavaScript | Code/Drops #24
     
     Assunto: Vídeo sobre como criar um Dark Mode utilizando apenas conceitos básicos de JavaScript e CSS
+
+## - [Code/Drops #26](https://www.youtube.com/watch?v=BwwOu29K6mE&ab_channel=Rocketseat) - [Repositório](https://github.com/DyogoBendo/Code-Drops/tree/master/Code_Drops_26)
+    Título: Transição de imagens com CSS3 e JavaScript puro | Code/Drops #26
+    
+    Assunto: Vídeo sobre como fazer um slider. 
